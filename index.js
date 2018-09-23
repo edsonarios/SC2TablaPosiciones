@@ -21,7 +21,7 @@ var PLAYERSNOVATO =["TTAZLLERECK","GGPLAY","Rivaul","Chepo","Draexx","Pipen","WA
 
 //Obtiene el libro, dando de parametro el numero de libro que queremos leer
 var first_sheet_name = workbook.SheetNames[Liga];
-
+console.log(PLAYERSCHAMPIONS)
 //Coordenadas exactas
 var letra1='B'
 var numero='1'
