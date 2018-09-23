@@ -1,0 +1,16 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "Excel",
+  "main": "index.js",
+  "dependencies": {
+    "exceljs": "^1.5.1",
+    "xlsx": "^0.13.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ed",
+  "license": "MIT"
+}
